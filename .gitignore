@@ -23,4 +23,8 @@ Thumbs.db
 *.swp
 *.swo
 
+
+
+pgadmin/
+
 .tsbuildinfo
