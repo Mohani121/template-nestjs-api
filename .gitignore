@@ -23,8 +23,10 @@ Thumbs.db
 *.swp
 *.swo
 
-
+src/generated/
 
 pgadmin/
 
 .tsbuildinfo
+
+/src/generated/prisma
